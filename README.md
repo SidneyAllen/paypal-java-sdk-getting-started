@@ -69,6 +69,8 @@ Here's how to get your Sandbox client ID and secret:
 3. New accounts come with a Default Application in the REST API apps section. To create a new project, select Create App.
 4. Copy the client ID and  secret for your app.
 
+## Write code to create an order
+
 ### Initialize the API Client
 Configure your API Client by using the following code and inserting your Sandbox client id and secret.
 
