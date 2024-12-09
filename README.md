@@ -1,4 +1,5 @@
-# How to Get Started
+
+# PayPal Java SDK Getting Started
 
 ## Introduction
 This guide walks you through installing PayPal's Java SDK as a dependency, obtaining your sandbox API credentials and creating your first order with PayPal's sandbox.
